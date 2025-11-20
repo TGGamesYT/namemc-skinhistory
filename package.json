@@ -1,0 +1,17 @@
+
+{
+  "name": "namemc-skinhistory",
+  "version": "1.0.0",
+  "description": "Get NameMC minecraft skin history",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["minecraft", "uuid", "skins", "namemc", "skin history"],
+  "author": "TGdoesCode",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
